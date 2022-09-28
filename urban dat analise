@@ -1,0 +1,107 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
+typedef struct data_element{
+    char Horodat[25];
+    char Sexe[10];
+    int Age;
+    char Date_transport[20];
+    char Periode_journee[20];
+    char Trajet_parcouru[400];
+    char Cout_total[5];
+	char Trajet_embouteille[8];
+    char Duree_trajet[10];
+    char etat_route[20];
+
+}data;
+typedef struct Liste Liste;
+struct Liste
+{
+    data *premier;
+    struct data_element *next_data;
+};
+Liste *init(){
+    Liste *liste=NULL;
+    data *element=NULL;
+    return liste;
+}
+
+void save(){
+    int i=0,n;
+data *actuel=malloc(sizeof(data));
+data *D=malloc(sizeof(data));
+Liste *liste=malloc(sizeof(data));
+ printf("\n\n******************* copy des donnee dans la liste et affichage**************************\n\n");
+    FILE*f=fopen("Horodateur.txt","r");
+    while(fscanf(f,"%s\t  %s\t  %d\t  %s\t  %s\t  %s\t  %s\t  %s\t  %s\t %s\n ",D->Horodat,D->Sexe,&D->Age,D->Date_transport,D->Periode_journee,D->Trajet_parcouru,D->Cout_total,D->Trajet_embouteille,D->Duree_trajet,D->etat_route)!=EOF){
+	actuel=D;
+	 i++;
+    printf("%s\t  %s\t  %d\t  %s\t  %s\t  %s\t  %s\t  %s\t  %s\t %s\n ",actuel->Horodat,actuel->Sexe,actuel->Age,actuel->Date_transport,actuel->Periode_journee,actuel->Trajet_parcouru,actuel->Cout_total,actuel->Trajet_embouteille,actuel->Duree_trajet,actuel->etat_route);
+
+		liste->next_data=liste->premier;
+		liste->premier=actuel;
+ 	}n=i;
+
+    fclose(f);
+}
+
+void rechercheage(int age){
+   int i=0,j=0,n;
+data *actuel=malloc(sizeof(data));
+data *D=malloc(sizeof(data));
+Liste *liste=malloc(sizeof(data));
+   printf("\n\n******************* recherche age = << %d >>**************************\n\n",age);
+    FILE*f=fopen("Horodateur.txt","r");
+    while(fscanf(f,"%s\t  %s\t  %d\t  %s\t  %s\t  %s\t  %s\t  %s\t  %s\t %s\n ",D->Horodat,D->Sexe,&D->Age,D->Date_transport,D->Periode_journee,D->Trajet_parcouru,D->Cout_total,D->Trajet_embouteille,D->Duree_trajet,D->etat_route)!=EOF){
+	actuel=D;
+	 i++;
+	if(age==actuel->Age){
+
+        printf("%d\n", actuel->Age);
+        j++;	}
+		liste->next_data=liste->premier;
+		liste->premier=actuel;
+ 	}
+	printf("il y'a %d pesonne ayant l'age =%d disponibles",j,age);
+	printf("\n\netat indisponibles\n ");
+
+}
+void tri(){
+       int i=0,j=0,n;
+data *actuel[50];
+data *D=malloc(sizeof(data));
+Liste *liste=malloc(sizeof(data));
+   printf("\n\n******************* tri par odre croissant d'age**************************\n\n");
+    FILE*f=fopen("Horodateur.txt","r");
+    while(fscanf(f,"%s\t  %s\t  %d\t  %s\t  %s\t  %s\t  %s\t  %s\t  %s\t %s\n ",D->Horodat,D->Sexe,&D->Age,D->Date_transport,D->Periode_journee,D->Trajet_parcouru,D->Cout_total,D->Trajet_embouteille,D->Duree_trajet,D->etat_route)!=EOF){
+	actuel[i]->Age=D->Age;
+	strcpy(actuel[i]->Sexe,D->Sexe);
+	strcpy(actuel[i]->Date_transport,D->Date_transport);
+	strcpy(actuel[i]->Periode_journee,D->Periode_journee);
+	strcpy(actuel[i]->Trajet_parcouru,D->Trajet_parcouru);
+	strcpy(actuel[i]->Cout_total,D->Cout_total);
+	strcpy(actuel[i]->Trajet_embouteille,D->Trajet_embouteille);
+	strcpy(actuel[i]->Horodat,D->Horodat);
+    liste->next_data=liste->premier;
+    liste->premier=actuel[i];
+			 i++;
+ 	}n=i;
+ 	printf("%d",n);
+for(i=0;i<=n;i++){
+    if(actuel[i]->Age>actuel[i+1]->Age){
+        int page=actuel[i+1]->Age;
+        actuel[i+1]->Age=actuel[i]->Age;
+        actuel[i]->Age=page;
+        printf("%d\n", actuel[i]->Age);
+		}
+}
+
+}
+int main(){
+	//init();
+    save();
+    rechercheage(18);
+    tri();
+    return 0;
+}
