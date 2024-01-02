@@ -1,95 +1,77 @@
-Horodateur
-; Sexe; Age; Date du transport; Période de la journée; Trajet parcouru; Coût total
-; Trajet est-il embouteillé?; Durée du trajet (en min); Quel est l'état de la route?
-23/03/2022 17:35:00; Féminin; 18; 23/03/2022; 06H-10 H; De la maison à Ekoumdoum près du collège petou jusqu'à l'école bilingue les bambinos situé au carrefour manga Philippe toujours à Ekoumdoum, pour accompagner mon petit frère a l'école, le tarif était de 0 FCFA, et j'y suis allée a pieds.; 0; Non; 20; Bonne
-23/03/2022 17:36:29; Masculin; 20; 12/12/2002; 12H-16H; Mendong - marché central taxi prix 400F
-Marché centrale - chapel tkc taxi prix 400F
-Chapel tkc - Carrefour nkolzier moto prix 100f
-Carrefour nkolzier - entrée simbock moto prix 150f
-Entrée simbock - marchés mendong ( maison) A pied; 1050; Non; 180; Bonne
-23/03/2022 17:37:34; Féminin; 19; 23/03/2022; 12H-16H; Lycée de biyem-assi/ngoa ekele (château); 150; Non; 10 minutes; Bonne
-23/03/2022 17:38:24; Masculin; 18; 23/03/2022; 10H-12H; Nkozoa en face du procureur - Nkozoa entrée ministre (aller)  ___ Nkozoa entrée Ministre - Nkozoa en face du procureur (retour)
-Marche à pied pour l'aller et pour le retour
-Tarif 0 FCFA dépensé; 0; Non; 20 minutes; Passable
-23/03/2022 17:42:26; Masculin; 21; 23/03/2022; 06H-10 H; Scalom-ngoakelé; 1; Non; 200; Bonne
-23/03/2022 17:44:15; Masculin; 21; 23/03/2022; 06H-10 H; Nkolbisson(béatitude)-entrée parc 300fcfa entrée parc-Polytechnique 100fcfa Polytechnique-Uy1 à pied; ; Oui; 45; Passable
+Horodateur; Sexe; Age; Date du transport; PÃ©riode de la journÃ©e; Trajet parcouru; CoÃ»t total; Trajet est-il embouteillÃ©?; DurÃ©e du trajet (en min); Quel est l'Ã©tat de la route?
+23/03/2022 17:35:00; FÃ©minin; 18; 23/03/2022; 06H-10 H; De la maison Ã  Ekoumdoum prÃ¨s du collÃ¨ge petou jusqu'Ã  l'Ã©cole bilingue les bambinos situÃ© au carrefour manga Philippe toujours Ã  Ekoumdoum, pour accompagner mon petit frÃ¨re a l'Ã©cole, le tarif Ã©tait de 0 FCFA, et j'y suis allÃ©e a pieds.; 0; Non; 20; Bonne
+23/03/2022 17:36:29; Masculin; 20; 12/12/2002; 12H-16H; Mendong - marchÃ© central taxi prix 400FMarchÃ© centrale - chapel tkc taxi prix 400F Chapel tkc - Carrefour nkolzier moto prix 100f Carrefour nkolzier - entrÃ©e simbock moto prix 150f EntrÃ©e simbock - marchÃ©s mendong ( maison) A pied; 1050; Non; 180; Bonne
+23/03/2022 17:37:34; FÃ©minin; 19; 23/03/2022; 12H-16H; LycÃ©e de biyem-assi/ngoa ekele (chÃ¢teau); 150; Non; 10 minutes; Bonne
+23/03/2022 17:38:24; Masculin; 18; 23/03/2022; 10H-12H; Nkozoa en face du procureur - Nkozoa entrÃ©e ministre (aller)  ___ Nkozoa entrÃ©e Ministre - Nkozoa en face du procureur (retour) Marche Ã  pied pour l'aller et pour le retour Tarif 0 FCFA dÃ©pensÃ©; 0; Non; 20 minutes; Passable
+23/03/2022 17:42:26; Masculin; 21; 23/03/2022; 06H-10 H; Scalom-ngoakelÃ©; 1; Non; 200; Bonne
+23/03/2022 17:44:15; Masculin; 21; 23/03/2022; 06H-10 H; Nkolbisson(bÃ©atitude)-entrÃ©e parc 300fcfa entrÃ©e parc-Polytechnique 100fcfa Polytechnique-Uy1 Ã  pied; ; Oui; 45; Passable
 23/03/2022 17:44:53; Masculin; 21; 23/03/2022; 16H-18H; Nsimeyong- medon; 150; Oui; 7; Passable
-23/03/2022 17:49:31; Masculin; 21; 23/03/2022; 10H-12H; Uy1-meec à pied meec-nkolbisson(béatitude) 200fcfa; ; Non; 1h; Passable
-23/03/2022 17:51:53; Masculin; 22; 23/03/2022; 06H-10 H; Lieu de départ :nbalngon
-Destination : ngoa ekelle
-Tarif: 500f allé
-Moyen de transport : moto
-On quitte de l'entrée simbock, on traverse la chapelle tkc, ensuite on arrive au carrefour tkc, on prend la route qui descend à gauche,  puis on passe par le carrefour etoug ebe, et ensuite on passe par obili jusqu'à arrivé à la total melen , ainsi continuer tout droit en dépassant le chu pour tomber à l'entrée principale de polytechnique.; ; Oui; 20-25; Bonne
-23/03/2022 17:53:22; Masculin; 17; 23/03/2022; 16H-18H; Départ : école de poste Destination : Rosière supérieur Tarif 400:
-Moyen de transport: taxi et moto; 400; Non; 20; Bonne
-23/03/2022 17:54:52; Féminin; 18; 23/03/2022; 06H-10 H; Carrefour Nkolbisson-entrée du parc(Nkolbikok)(150)-polytechnique(Melen)(100); 250; Non; 40; Passable
-23/03/2022 17:56:49; Féminin; 18; 23/03/2022; 10H-12H; Point de départ damas
-Tarif 250f
-Moyen de transport taxi ou motos; 500; Oui; 15min; Passable
-23/03/2022 17:56:53; Féminin; 21; 22/03/2022; 12H-16H; Partant de mokolo pour le carrefour awae . Partant de mokolo au niveau de la quincaillerie fokou à la descente de route qui va vers Nikki j'ai pris le transport en commun (Taxi) qui me laisse à  la poste centrale à 200 fcfa , je me suis placé en face de l'immeuble de couleur orange pour prendre un autre  transport en commun (Taxi)  à un tarif de 350fcfa qui me laisse au carrefour awae escalier.; ; Oui; 60 min minimum; Passable
-23/03/2022 17:57:55; Féminin; 17; 22/03/2022; 12H-16H; Rond point express (biyemassi)_cité U(ngoa ékélé)_250_taxi; 250; Non; 30; Bonne
-23/03/2022 17:58:45; Masculin; 18; 15/01/2004; 06H-10 H; Point de départ :cradat Point d'arrivé:UY1; 100; Non; 3; Bonne
-23/03/2022 18:00:03; Féminin; 17; 22/03/2022; 18H-20H; Cité U(ngoa ékélé)_Rond point express (biyemassi)_200_moto; 200; Oui; 35; Bonne
-23/03/2022 18:00:43; Féminin; 17; 23/03/2022; 10H-12H; Oyack (nkomo II) à ekounou (100f) Ekounou à Can sable (nkomo II); ; Oui; 5min; Mauvaise
-23/03/2022 18:01:17; Féminin; 17; 23/03/2022; Toute la journée; Ras; ; Non; ; Bonne
-23/03/2022 18:02:02; Féminin; ; 23/03/2022; 06H-10 H; Maison emana pont -marche- emana pont école normale -400-taxi; ; Oui; 40 minutes; Bonne
-23/03/2022 18:04:35; Masculin; 20; 22/03/2022; 10H-12H; Du rond point damas a la cité U a l'aide d'un taxi ce qui à coûté 250 franc; 350; Non; 15; Passable
-23/03/2022 18:07:48; Féminin; 18; 23/03/2022; 06H-10 H; Maison -campus
-Matin
-Taxi
-200; 400; Oui; 30min; Bonne
-23/03/2022 18:08:18; Masculin; 20; 22/03/2022; 19h-20h; Partant de la cité U à pieds jusqu'au carefour shell ensuite emprunt d'un taxi au carefour shell jusqu'au rond point damas en payant 100 franc; 350; Non; 1h; Passable
-23/03/2022 18:10:32; Masculin; 20; 23/03/2022; 06h-06h du lendemain; Aucun trajet; ; Non; 0; Pas de route empruntée
+23/03/2022 17:49:31; Masculin; 21; 23/03/2022; 10H-12H; Uy1-meec Ã  pied meec-nkolbisson(bÃ©atitude) 200fcfa; ; Non; 1h; Passable
+23/03/2022 17:51:53; Masculin; 22; 23/03/2022; 06H-10 H; Lieu de dÃ©part :nbalngon Destination : ngoa ekelle Tarif: 500f allÃ© Moyen de transport : moto On quitte de l'entrÃ©e simbock, on traverse la chapelle tkc, ensuite on arrive au carrefour tkc, on prend la route qui descend Ã  gauche,  puis on passe par le carrefour etoug ebe, et ensuite on passe par obili jusqu'Ã  arrivÃ© Ã  la total melen , ainsi continuer tout droit en dÃ©passant le chu pour tomber Ã  l'entrÃ©e principale de polytechnique.; ; Oui; 20-25; Bonne
+23/03/2022 17:53:22; Masculin; 17; 23/03/2022; 16H-18H; DÃ©part : Ã©cole de poste Destination : RosiÃ¨re supÃ©rieur Tarif 400: Moyen de transport: taxi et moto; 400; Non; 20; Bonne
+23/03/2022 17:54:52; FÃ©minin; 18; 23/03/2022; 06H-10 H; Carrefour Nkolbisson-entrÃ©e du parc(Nkolbikok)(150)-polytechnique(Melen)(100); 250; Non; 40; Passable
+23/03/2022 17:56:49; FÃ©minin; 18; 23/03/2022; 10H-12H; Point de dÃ©part damas  Tarif 250f Moyen de transport taxi ou motos; 500; Oui; 15min; Passable
+23/03/2022 17:56:53; FÃ©minin; 21; 22/03/2022; 12H-16H; Partant de mokolo pour le carrefour awae . Partant de mokolo au niveau de la quincaillerie fokou Ã  la descente de route qui va vers Nikki j'ai pris le transport en commun (Taxi) qui me laisse Ã   la poste centrale Ã  200 fcfa , je me suis placÃ© en face de l'immeuble de couleur orange pour prendre un autre  transport en commun (Taxi)  Ã  un tarif de 350fcfa qui me laisse au carrefour awae escalier.; ; Oui; 60 min minimum; Passable
+23/03/2022 17:57:55; FÃ©minin; 17; 22/03/2022; 12H-16H; Rond point express (biyemassi)_citÃ© U(ngoa Ã©kÃ©lÃ©)_250_taxi; 250; Non; 30; Bonne
+23/03/2022 17:58:45; Masculin; 18; 15/01/2004; 06H-10 H; Point de dÃ©part :cradat Point d'arrivÃ©:UY1; 100; Non; 3; Bonne
+23/03/2022 18:00:03; FÃ©minin; 17; 22/03/2022; 18H-20H; CitÃ© U(ngoa Ã©kÃ©lÃ©)_Rond point express (biyemassi)_200_moto; 200; Oui; 35; Bonne
+23/03/2022 18:00:43; FÃ©minin; 17; 23/03/2022; 10H-12H; Oyack (nkomo II) Ã  ekounou (100f) Ekounou Ã  Can sable (nkomo II); ; Oui; 5min; Mauvaise
+23/03/2022 18:01:17; FÃ©minin; 17; 23/03/2022; Toute la journÃ©e; Ras; ; Non; ; Bonne
+23/03/2022 18:02:02; FÃ©minin; ; 23/03/2022; 06H-10 H; Maison emana pont -marche- emana pont Ã©cole normale -400-taxi; ; Oui; 40 minutes; Bonne
+23/03/2022 18:04:35; Masculin; 20; 22/03/2022; 10H-12H; Du rond point damas a la citÃ© U a l'aide d'un taxi ce qui Ã  coÃ»tÃ© 250 franc; 350; Non; 15; Passable
+23/03/2022 18:07:48; FÃ©minin; 18; 23/03/2022; 06H-10 H; Maison -campus Matin Taxi 200; 400; Oui; 30min; Bonne
+23/03/2022 18:08:18; Masculin; 20; 22/03/2022; 19h-20h; Partant de la citÃ© U Ã  pieds jusqu'au carefour shell ensuite emprunt d'un taxi au carefour shell jusqu'au rond point damas en payant 100 franc; 350; Non; 1h; Passable
+23/03/2022 18:10:32; Masculin; 20; 23/03/2022; 06h-06h du lendemain; Aucun trajet; ; Non; 0; Pas de route empruntÃ©e
 23/03/2022 18:11:05; Masculin; 19; 23/03/2022; 12H-16H; entree simbock-borne 15; 100; Non; 10min; Bonne
-23/03/2022 18:12:15; Masculin; 19; 24/04/2022; 06H-10 H; Je quitte de efoulan école pour ngoa ekélé le plus souvent je prend la moto parce que c’est le moyens de transport le plus rapide le tarif varie entre 200 et 300; 200; Oui; Maximum 15; Passable
+23/03/2022 18:12:15; Masculin; 19; 24/04/2022; 06H-10 H; Je quitte de efoulan Ã©cole pour ngoa ekÃ©lÃ© le plus souvent je prend la moto parce que câ€™est le moyens de transport le plus rapide le tarif varie entre 200 et 300; 200; Oui; Maximum 15; Passable
 23/03/2022 18:12:16; Masculin; ; 23/03/2022; RAS; RAS; ; Non; RAS; RAS
-23/03/2022 18:13:37; Féminin; 17; 23/03/2022; Aucune; Aucun; ; Non; Aucun; Aucun
-23/03/2022 18:18:43; Masculin; 20; 23/03/2022; 10H-12H; Carrefour messassi -pharmatie olembé.tarif 100 FCFA.pharmatie olembé- carrefour messassi. Tarif 100 FCFA. Moyen de transport taxi.; ; Non; 8 min; Bonne
-23/03/2022 18:19:18; Masculin; 20; 23/03/2022; 06H-10 H; Maison - marché acacia; ; Non; 10 minutes à pied; Bonne
+23/03/2022 18:13:37; FÃ©minin; 17; 23/03/2022; Aucune; Aucun; ; Non; Aucun; Aucun
+23/03/2022 18:18:43; Masculin; 20; 23/03/2022; 10H-12H; Carrefour messassi -pharmatie olembÃ©.tarif 100 FCFA.pharmatie olembÃ©- carrefour messassi. Tarif 100 FCFA. Moyen de transport taxi.; ; Non; 8 min; Bonne
+23/03/2022 18:19:18; Masculin; 20; 23/03/2022; 06H-10 H; Maison - marchÃ© acacia; ; Non; 10 minutes Ã  pied; Bonne
 23/03/2022 18:19:59; Masculin; 18; 23/03/2022; 6h-10h ; 12h-
-14h ; 14h-18h; Quartier Obili - CitéU (a pied) 6h-10h
-Cité U - Quartier Obili (a pied) 12h-14h
+14h ; 14h-18h; Quartier Obili - CitÃ©U (a pied) 6h-10h
+CitÃ© U - Quartier Obili (a pied) 12h-14h
 Quartier Obili - Canal Olympia-moto(200) 14h-18h; 200; Non; 42min; A pied (mauvaise) a moto (bonne)
 23/03/2022 18:22:48; Masculin; 17; 23/03/2022; 16H-18H; Chapelle  vers terminus; 250; Non; 30min; Mauvaise
-23/03/2022 18:22:56; Féminin; 20; 23/03/2022; 10H-12H; * pour  sortir de la maison j'ai emprunté la moto 200fcfa sapeur .
-*puis le taxi 100fcfa hôtel du plateau..en rentrant j'ai fait le même parcours et utilisé la même somme d'argent; ; Non; 20minutes maxi; Bonne
-23/03/2022 18:24:53; Féminin; 17; 23/03/2022; 06H-10 H; Marche à pied de ma maison derrière le lycée d'Étoug ébé jusqu'à biyem-assi , puis enprunt d'une moto taxi jusqu'au rond point express a la mairie, puis enprunt d'une moto taxi pour la mairie des Acacias, puis marche à pied du marché Acacia jusqu'à biyem-assi puis enprunt d'une moto taxi pour le marché Mendong et enfin enprunt d'un taxi pour la Montée du Centre  et marche à pied jusqu'à derrière le lycée d'Étoug ébé pour ma maison.; 500; Non; 4; Passable
+23/03/2022 18:22:56; FÃ©minin; 20; 23/03/2022; 10H-12H; * pour  sortir de la maison j'ai empruntÃ© la moto 200fcfa sapeur .
+*puis le taxi 100fcfa hÃ´tel du plateau..en rentrant j'ai fait le mÃªme parcours et utilisÃ© la mÃªme somme d'argent; ; Non; 20minutes maxi; Bonne
+23/03/2022 18:24:53; FÃ©minin; 17; 23/03/2022; 06H-10 H; Marche Ã  pied de ma maison derriÃ¨re le lycÃ©e d'Ã‰toug Ã©bÃ© jusqu'Ã  biyem-assi , puis enprunt d'une moto taxi jusqu'au rond point express a la mairie, puis enprunt d'une moto taxi pour la mairie des Acacias, puis marche Ã  pied du marchÃ© Acacia jusqu'Ã  biyem-assi puis enprunt d'une moto taxi pour le marchÃ© Mendong et enfin enprunt d'un taxi pour la MontÃ©e du Centre  et marche Ã  pied jusqu'Ã  derriÃ¨re le lycÃ©e d'Ã‰toug Ã©bÃ© pour ma maison.; 500; Non; 4; Passable
 23/03/2022 18:25:49; Masculin; 18; 23/03/2022; 06H-10 H; Du Carrefour Nkoabang au portail de l'ENS parcouru en taxi; 500; Oui; 40; Bonne
-23/03/2022 18:27:56; Masculin; 19; 23/03/2022; 12H-16H; Départ :messassi , tarif 200 , taxi , destination olembe entrée école; 400; Non; 10; Passable
-23/03/2022 18:32:16; Féminin; 19; 23/03/2022; 06H-10 H; Lieu de départ : carrefour obilie lieu d'arrivée : cradad, tarif moyen 100f; ; Oui; 20 min; Passable
-23/03/2022 18:37:09; Masculin; 17; 23/03/2022; 06H-10 H; Meyo(nanga city)-100-barrière-300-Cite U; 400; Oui; 70; Bonne
-23/03/2022 18:38:24; Féminin; 27; 23/03/2022; 12H-16H; Lieu de départ: Maetur- Biteng, j’ai pris la moto à 100f pour l’entrée Maetur, ensuite j’ai pris Le taxi à 500f pour le quartier Fouda.; 1200; Non; 40; Bonne
+23/03/2022 18:27:56; Masculin; 19; 23/03/2022; 12H-16H; DÃ©part :messassi , tarif 200 , taxi , destination olembe entrÃ©e Ã©cole; 400; Non; 10; Passable
+23/03/2022 18:32:16; FÃ©minin; 19; 23/03/2022; 06H-10 H; Lieu de dÃ©part : carrefour obilie lieu d'arrivÃ©e : cradad, tarif moyen 100f; ; Oui; 20 min; Passable
+23/03/2022 18:37:09; Masculin; 17; 23/03/2022; 06H-10 H; Meyo(nanga city)-100-barriÃ¨re-300-Cite U; 400; Oui; 70; Bonne
+23/03/2022 18:38:24; FÃ©minin; 27; 23/03/2022; 12H-16H; Lieu de dÃ©part: Maetur- Biteng, jâ€™ai pris la moto Ã  100f pour lâ€™entrÃ©e Maetur, ensuite jâ€™ai pris Le taxi Ã  500f pour le quartier Fouda.; 1200; Non; 40; Bonne
 23/03/2022 18:38:46; Masculin; 22; 06/12/1999; 06H-10 H; Carrefour mvan vers UY1 en passant par Atangana Mbala; 400; Non; 35; Passable
-23/03/2022 18:38:48; Masculin; 18; 23/03/2022; 12H-16H; Départ : carrefour messassi, destination :château. Tarif : 400FCFA. Moyen de transport : taxi.; ; Oui; 45 min; Bonne
-23/03/2022 18:44:22; Masculin; 20; 22/03/2022; 18H-20H; Le trajet parcouru mardi le 22 mars 2022 debut à total ngousso et s'achève au château (ngoa ekele). Pour le parcourir j'ai utilisé comme moyen de transport un mini-bus puis un taxi ce qui m'a coûté une somme de 300 fcfa c'est à dire 200fcfa pour le mini-bus et 100f pour le taxi .
-Pour surmonter la délicatesse du chemin j'ai du empreinté le mini-bus pour me déplacer de total ngousso à kamer en suite j'ai emprunté un taxi de la kamer pour château .; 300; Oui; 30; Passable
+23/03/2022 18:38:48; Masculin; 18; 23/03/2022; 12H-16H; DÃ©part : carrefour messassi, destination :chÃ¢teau. Tarif : 400FCFA. Moyen de transport : taxi.; ; Oui; 45 min; Bonne
+23/03/2022 18:44:22; Masculin; 20; 22/03/2022; 18H-20H; Le trajet parcouru mardi le 22 mars 2022 debut Ã  total ngousso et s'achÃ¨ve au chÃ¢teau (ngoa ekele). Pour le parcourir j'ai utilisÃ© comme moyen de transport un mini-bus puis un taxi ce qui m'a coÃ»tÃ© une somme de 300 fcfa c'est Ã  dire 200fcfa pour le mini-bus et 100f pour le taxi .
+Pour surmonter la dÃ©licatesse du chemin j'ai du empreintÃ© le mini-bus pour me dÃ©placer de total ngousso Ã  kamer en suite j'ai empruntÃ© un taxi de la kamer pour chÃ¢teau .; 300; Oui; 30; Passable
 23/03/2022 18:48:45; Masculin; 21; 23/03/2022; 06H-10 H; De Melen pour le campus; 200; Non; 10; Bonne
-23/03/2022 18:49:11; Masculin; 19; 22/03/2022; 12H-16H; Eloumdem après le pont - entrée simbock (150).   Entrée simbock- cite u (250); 400; Oui; 25; Bonne
+23/03/2022 18:49:11; Masculin; 19; 22/03/2022; 12H-16H; Eloumdem aprÃ¨s le pont - entrÃ©e simbock (150).   EntrÃ©e simbock- cite u (250); 400; Oui; 25; Bonne
 23/03/2022 18:53:33; Masculin; 17; 23/03/2022; 12H-16H; Chappelle obilli pour la site U; 100; Oui; 15mins; Passable
 23/03/2022 18:54:09; Masculin; 17; 23/03/2022; RAS; RAS; ; Non; RAS; RAS
-23/03/2022 18:54:11; Féminin; 18; 23/03/2022; 10H-12H; Du carrefour condom ( bonas ) à la chapelle obili ( obili ); ; Non; 5min; Bonne
-23/03/2022 18:56:40; Féminin; 17; 23/03/2022; 12H-16H; Carrefour Nlongkak - Cité U; ; Non; 30; Bonne
-23/03/2022 18:59:44; Masculin; 19; 22/03/2022; 18H-20H; Cité u - Entrée simbock (250). Entrée simbock - Eloumdem après le pont (marche); 250; Oui; 50; Bonne
+23/03/2022 18:54:11; FÃ©minin; 18; 23/03/2022; 10H-12H; Du carrefour condom ( bonas ) Ã  la chapelle obili ( obili ); ; Non; 5min; Bonne
+23/03/2022 18:56:40; FÃ©minin; 17; 23/03/2022; 12H-16H; Carrefour Nlongkak - CitÃ© U; ; Non; 30; Bonne
+23/03/2022 18:59:44; Masculin; 19; 22/03/2022; 18H-20H; CitÃ© u - EntrÃ©e simbock (250). EntrÃ©e simbock - Eloumdem aprÃ¨s le pont (marche); 250; Oui; 50; Bonne
 23/03/2022 19:00:52; Masculin; 18; 23/03/2022; 06H-10 H; Carrefour TIMI oyomabang(  sur la nouvelle route de nkolbisson)  - NIKI mokolo (200 f)); ; Oui; 20 min; Bonne
 23/03/2022 19:02:58; Masculin; 18; 23/03/2022; 16H-18H; Niki mokolo - carrefour TIMMI oyomabang ( sur la nouvelle route de nkolbisson); ; Oui; ; Bonne
-23/03/2022 19:24:12; Féminin; 18; 23/03/2022; R.A.S; R.A.S; ; Non; R.A.S; R.A.S
+23/03/2022 19:24:12; FÃ©minin; 18; 23/03/2022; R.A.S; R.A.S; ; Non; R.A.S; R.A.S
 23/03/2022 19:25:33; Masculin; 21; 22/03/2022; 12H-16H; Nkolsie-chapelle tkc(100f) ; chapelle tck-site U(300f); 400; Non; 30; Passable
-23/03/2022 19:26:02; Masculin; 18; 23/03/2022; 10H-12H; chefferie de derrière zibi- carrefour banane; 100; Non; 10; Passable
-23/03/2022 19:26:44; Féminin; 17; 22/03/2022; 16H-18H; Cradat -education -100-taxi, éducation-bonas devant auto école Mane d'Afrik-200-taxi; 300; Non; 15; Bonne
-23/03/2022 19:27:23; Féminin; 18; 23/03/2022; 06H-10 H; Entrée simbock-citeU; 250; Non; 10; Passable
+23/03/2022 19:26:02; Masculin; 18; 23/03/2022; 10H-12H; chefferie de derriÃ¨re zibi- carrefour banane; 100; Non; 10; Passable
+23/03/2022 19:26:44; FÃ©minin; 17; 22/03/2022; 16H-18H; Cradat -education -100-taxi, Ã©ducation-bonas devant auto Ã©cole Mane d'Afrik-200-taxi; 300; Non; 15; Bonne
+23/03/2022 19:27:23; FÃ©minin; 18; 23/03/2022; 06H-10 H; EntrÃ©e simbock-citeU; 250; Non; 10; Passable
 23/03/2022 19:29:33; Masculin; 18; 23/03/2022; RAS; RAS; ; Non; 0; RAS
 23/03/2022 19:29:38; Masculin; 21; 22/03/2022; 18H-20H; Uy1-site U(marche); site U- chapelle tkc (300); chapelle tkc-nkzie_carrefour(100); 400; Oui; 60; Passable
-23/03/2022 19:29:41; Féminin; 17; 23/03/2022; 16H-18H; Cradat-education-100-taxi, éducation-bonas-250-taxi; 350; Non; 20; Bonne
-23/03/2022 19:30:18; Féminin; 18; 23/03/2022; 12H-16H; CiteU - entrée simbock; 200; Non; 15; Passable
+23/03/2022 19:29:41; FÃ©minin; 17; 23/03/2022; 16H-18H; Cradat-education-100-taxi, Ã©ducation-bonas-250-taxi; 350; Non; 20; Bonne
+23/03/2022 19:30:18; FÃ©minin; 18; 23/03/2022; 12H-16H; CiteU - entrÃ©e simbock; 200; Non; 15; Passable
 23/03/2022 19:33:54; Masculin; 22; 23/03/2022; 10H-12H; Un aller retour entre le site Obobogo et Damas; 200; Non; 5min; Bonne
 23/03/2022 19:35:38; Masculin; 21; 23/03/2022; 12H-16H; Maison-carrefour_nkolzie(marche); carrefour_nkolzie-chapell_tkc(moto 100f); chapelle_tkccanal_olympia(taxi 200); 300; Oui; 30; Passable
 23/03/2022 19:41:40; Masculin; 18; 23/03/2022; Ras; Ras; ; Non; Ras; Passable
-23/03/2022 19:43:12; Masculin; 17; 23/03/2022; 06H-10 H; J'ai commencer à odja j'ai payé 350 pour la poste centrale puis 100 pour Tsinga qui est m'a destination final; 1000; Oui; 90mins; Passable
-23/03/2022 19:50:58; Masculin; 18; 22/03/2022; 06H-10 H; Camp sonel_polytech ,0frs, à pieds; ; Oui; 120; Mauvaise
-23/03/2022 19:54:03; Masculin; 19; 23/03/2022; 06H-10 H; Cite universitaire - Montée Jouvence; ; Non; 15 min; Bonne
-23/03/2022 19:58:09; Masculin; 17; 23/03/2022; 18H-20H; Calafatas (Hippodrome)- Poste Centrale- Ekounou marché (Ekounou) - Odza( Happy); 600; Non; 60; Bonne
-23/03/2022 19:58:18; Masculin; 19; 23/03/2021; 18H-20H; Montée Jouvence - Marché Madagascar ( 300 fcfa) en voiture; ; Oui; 40 min; Mauvaise
-23/03/2022 20:02:56; Masculin; ; 23/03/2022; 12H-16H; Le trajet a debuté au niveau de la sous-prefecture tsinga et c'est terminé a la cité U ngoa-ekelle par le moyen d'un taxi et m'a couté 300Francs; ; Non; Environ 30minutes; Passable
-23/03/2022 20:04:43; Masculin; 18; 23/03/2022; 10H-12H; Sous-préfecture tsinga, 100frs, taxi; ; Non; 7; Bonne
-23/03/2022 20:09:31; Masculin; 21; 23/03/2022; 12H-16H; D'emombo à la poste, 150f,taxi; ; Oui; 1h; Bonne
+23/03/2022 19:43:12; Masculin; 17; 23/03/2022; 06H-10 H; J'ai commencer Ã  odja j'ai payÃ© 350 pour la poste centrale puis 100 pour Tsinga qui est m'a destination final; 1000; Oui; 90mins; Passable
+23/03/2022 19:50:58; Masculin; 18; 22/03/2022; 06H-10 H; Camp sonel_polytech ,0frs, Ã  pieds; ; Oui; 120; Mauvaise
+23/03/2022 19:54:03; Masculin; 19; 23/03/2022; 06H-10 H; Cite universitaire - MontÃ©e Jouvence; ; Non; 15 min; Bonne
+23/03/2022 19:58:09; Masculin; 17; 23/03/2022; 18H-20H; Calafatas (Hippodrome)- Poste Centrale- Ekounou marchÃ© (Ekounou) - Odza( Happy); 600; Non; 60; Bonne
+23/03/2022 19:58:18; Masculin; 19; 23/03/2021; 18H-20H; MontÃ©e Jouvence - MarchÃ© Madagascar ( 300 fcfa) en voiture; ; Oui; 40 min; Mauvaise
+23/03/2022 20:02:56; Masculin; ; 23/03/2022; 12H-16H; Le trajet a debutÃ© au niveau de la sous-prefecture tsinga et c'est terminÃ© a la citÃ© U ngoa-ekelle par le moyen d'un taxi et m'a coutÃ© 300Francs; ; Non; Environ 30minutes; Passable
+23/03/2022 20:04:43; Masculin; 18; 23/03/2022; 10H-12H; Sous-prÃ©fecture tsinga, 100frs, taxi; ; Non; 7; Bonne
+23/03/2022 20:09:31; Masculin; 21; 23/03/2022; 12H-16H; D'emombo Ã  la poste, 150f,taxi; ; Oui; 1h; Bonne
 
